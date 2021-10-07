@@ -1,0 +1,47 @@
+body {
+  color: white;
+  text-align: center;
+  background: url(https://img2.goodfon.com/original/1920x1080/c/8f/b-w-black-and-white-bridge-3646.jpg) no-repeat center center fixed;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+p {
+  font-size: 16px;
+  font-weight: bold;
+  
+}
+div.a {
+  text-align:left;
+}
+div.b {
+  text-align: right;
+}
+
+a:hover {
+  color: yellow;
+  text-decoration: underline overline;
+}
+
+b:hover {
+  color: gold;
+  text-decoration: underline overline;
+}
+
+#Skills{
+  color: black;
+}
+
+div.c{
+  background: black;
+}
